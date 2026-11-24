@@ -53,13 +53,11 @@ I'm a Computer Engineering student based in Madrid, Spain, also learning through
   <a href="https://github.com/CesarCRP97?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarCRP97&layout=compact&theme=transparent&hide_border=true&title_color=0891b2" alt="Most used languages" /></a>
 </div>
 
-<!-- Contribution snake: uncomment after the workflow generates the output branch.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarCRP97/CesarCRP97/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarCRP97/CesarCRP97/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/CesarCRP97/CesarCRP97/output/github-snake.svg" />
 </picture>
--->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,100:0891b2&height=90&section=footer" alt="" />
